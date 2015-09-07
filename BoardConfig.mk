@@ -31,9 +31,6 @@ DEVICE_RESOLUTION := 480x800
 #TWRP
 TW_BRIGHTNESS_PATH := /sys/class/leds/lcd-backlight/brightness
 
-# Releasetools
-TARGET_RELEASETOOLS_EXTENSIONS := device/lge/w5
-
 # Charger
 BOARD_HEALTHD_CUSTOM_CHARGER_RES := device/lge/w5/charger/images
 
